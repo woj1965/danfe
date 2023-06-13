@@ -1,3 +1,5 @@
+**Atenção**: esse fork do brasil-js/danfe, foi alterado para atender as necessidades que tenho, e provavelmente não funcionará em qualquer outro sistema.
+
 danfe
 =====
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/gammasoft/brasil?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
